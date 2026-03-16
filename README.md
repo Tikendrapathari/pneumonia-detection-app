@@ -1,8 +1,8 @@
-# 🫁 Pneumonia Detection System using Machine Learning
+# 🫁 Pneumonia Detection System using Deep Learning
 
 ## 📌 Project Overview
 
-This project is a **Pneumonia Detection Web Application** that predicts whether a patient has pneumonia from chest X-ray images using Machine Learning.
+This project is a **Pneumonia Detection Web Application** that predicts whether a patient has pneumonia from chest X-ray images using Deep Learning.
 
 The system allows users to upload an X-ray image and get a prediction instantly through a simple web interface.
 
